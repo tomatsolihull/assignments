@@ -62,14 +62,14 @@ _See Also: [Web Dev Tasks](https://github.com/tomatsolihull/unit-28), [Estate Ag
 ## Second Year
 
 ### Unit 3: Information Systems
-_Not Started_
+- ~~[**Assignment 1**: Good Information](pdf/u03a1.pdf)~~ _Ungraded so not uploaded yet_
 
 ### Unit 5: Managing Networks
 - [**Assignment 1**: Network Managers](pdf/u05a1.pdf)
 - [**Assignment 2**: Managing a Network](pdf/u05a2.pdf) _Heavilly Redacted for Sensitivity_
 
 ### Unit 12: IT Technical Support and Unit 13: IT Systems Troubleshooting & Support
-_Not Started_
+- ~~[**Assignment 1**: Technical Support](pdf/u12and13a1.pdf)~~ _Ungraded so not uploaded yet_
 
 ### [Unit 19](https://github.com/tomatsolihull/unit-19): Computer Systems Architecture
 - [**Assignment 1**: The Devil is in the Data](pdf/u19a1.pdf)
