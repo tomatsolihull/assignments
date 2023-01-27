@@ -78,6 +78,9 @@ _See Also: [Web Dev Tasks](https://github.com/tomatsolihull/unit-28), [Estate Ag
 
 ### [Unit 24](https://github.com/tomatsolihull/unit-24): Controlling Systems using IT
 - [**Assignment 1**: Controlling Systems using IT](pdf/u24a1.pdf)
+- ~~[**Assignment 2**: Building Control Systems](pdf/u24a2.pdf)~~ _In progress_
+
+_See Also: [Assignment 2 Project GitHub Repo](https://github.com/tomatsolihull/telloheightmapper)_
 
 ### Unit 25: Maintaining Computer Systems
 - [**Assignment 1**: Trouble Free Systems](pdf/u25a1.pdf)
