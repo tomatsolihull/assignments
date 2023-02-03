@@ -62,7 +62,7 @@ _See Also: [Web Dev Tasks](https://github.com/tomatsolihull/unit-28), [Estate Ag
 ## Second Year
 
 ### Unit 3: Information Systems
-- ~~[**Assignment 1**: Good Information](pdf/u03a1.pdf)~~ _Ungraded so not uploaded yet_
+- [**Assignment 1**: Good Information](pdf/u03a1.pdf)
 
 ### Unit 5: Managing Networks
 - [**Assignment 1**: Network Managers](pdf/u05a1.pdf)
