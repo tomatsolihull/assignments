@@ -11,6 +11,8 @@ Some work has not been included because it would take significant effort to coll
 
 Most of my first year work isn't the greatest and I'm surprised a lot of it was up-to-snuff. My MS Word template wasn't great either. I'm a lot more proud of my second year work.
 
+You may also be interested in [how I organised these assignments](https://github.com/tomatsolihull/notion-assignment-tracker/blob/master/README.md) while working on them, using Notion.
+
 ---
 
 ## First Year
