@@ -85,7 +85,7 @@ _See Also: [Web Dev Tasks](https://github.com/tomatsolihull/unit-28), [Estate Ag
 
 ### [Unit 24](https://github.com/tomatsolihull/unit-24): Controlling Systems using IT
 - [**Assignment 1**: Controlling Systems using IT](pdf/u24a1.pdf)
-- ~~[**Assignment 2**: Building Control Systems](pdf/u24a2.pdf)~~ _In progress_
+- [**Assignment 2**: Building Control Systems](pdf/u24a2.pdf)
 
 _See Also: [Assignment 2 Project GitHub Repo](https://github.com/tomatsolihull/telloheightmapper)_
 
@@ -98,8 +98,8 @@ _See Also: [Assignment 2 Project GitHub Repo](https://github.com/tomatsolihull/t
 - [**Assignment 2**: Plan and Implement an Installation and Upgrade](pdf/u29a2.pdf)
 
 ### Unit 32: Networked Systems Security
-~~- [**Assignment 1**: Are we Safe?](pdf/u32a1.pdf)~~ _Ungraded_
-~~- [**Assignment 2**: Start Installing](pdf/u32a2.pdf)~~ _Ungraded_
+- ~~[**Assignment 1**: Are we Safe?](pdf/u32a1.pdf)~~ _Ungraded_
+- ~~[**Assignment 2**: Start Installing](pdf/u32a2.pdf)~~ _Ungraded_
 
 ---
 
