@@ -9,9 +9,9 @@ These documents are simply provided as a showcase of my work; Information within
 
 Some work has not been included because it would take significant effort to collate, contains sensitive information, or contains PII of staff/students. Do get in touch if you'd like a redacted copy of anything missing.
 
-Most of my first year work isn't the greatest and I'm surprised a lot of it was up-to-snuff. My MS Word template wasn't great either. I'm a lot more proud of my second year work.
+Most of my first year work isn't the greatest, and I'm surprised a lot of it was up-to-snuff. My MS Word template wasn't great either. I'm a lot prouder of my second year work.
 
-You may also be interested in [how I organised these assignments](https://github.com/tomatsolihull/notion-assignment-tracker/blob/master/README.md) while working on them, using Notion.
+You may also be interested in [how I organized these assignments](https://github.com/tomatsolihull/notion-assignment-tracker/blob/master/README.md) while working on them, using Notion.
 
 ---
 
@@ -65,13 +65,18 @@ _See Also: [Web Dev Tasks](https://github.com/tomatsolihull/unit-28), [Estate Ag
 
 ### Unit 3: Information Systems
 - [**Assignment 1**: Good Information](pdf/u03a1.pdf)
+- [**Assignment 2**: The Issues Related to the Use of Information](pdf/u03a2.pdf)
+- [**Assignment 3**: Using IT Tools to Produce Management Information](pdf/u03a3.pdf)
 
 ### Unit 5: Managing Networks
 - [**Assignment 1**: Network Managers](pdf/u05a1.pdf)
-- [**Assignment 2**: Managing a Network](pdf/u05a2.pdf) _Heavilly Redacted for Sensitivity_
+- [**Assignment 2**: Managing a Network](pdf/u05a2.pdf) _Heavily Redacted for Sensitivity_
 
 ### Unit 12: IT Technical Support and Unit 13: IT Systems Troubleshooting & Support
-- ~~[**Assignment 1**: Technical Support](pdf/u12and13a1.pdf)~~ _Ungraded so not uploaded yet_
+- [**Assignment 1**: Technical Support](pdf/u12x13a1.pdf)
+- [**Assignment 2**: Fault Finding & Solutions](pdf/u12x13a2.pdf)
+- [**Assignment 3**: Solving Faults and Keeping Records](pdf/u12x13a3.pdf)
+
 
 ### [Unit 19](https://github.com/tomatsolihull/unit-19): Computer Systems Architecture
 - [**Assignment 1**: The Devil is in the Data](pdf/u19a1.pdf)
@@ -89,10 +94,12 @@ _See Also: [Assignment 2 Project GitHub Repo](https://github.com/tomatsolihull/t
 - [**Assignment 2**: Maintaining Computer Systems](pdf/u25a2.pdf)
 
 ### Unit 29: Installing & Upgrading Software
-_Not Started_
+- [**Assignment 1**: Why Install or Upgrade?](pdf/u29a1.pdf)
+- [**Assignment 2**: Plan and Implement an Installation and Upgrade](pdf/u29a2.pdf)
 
 ### Unit 32: Networked Systems Security
-_Not Started_
+~~- [**Assignment 1**: Are we Safe?](pdf/u32a1.pdf)~~ _Ungraded_
+~~- [**Assignment 2**: Start Installing](pdf/u32a2.pdf)~~ _Ungraded_
 
 ---
 

@@ -1,0 +1,1 @@
+{"rule":"OXFORD_SPELLING_Z_NOT_S","sentence":"^\\QUnit 7: Organisational Systems Security\nAssignment 1: Security Trade Show\nAssignment 2: Systems Security Issues\\E$"}
