@@ -9,7 +9,7 @@ These documents are simply provided as a showcase of my work; Information within
 
 Some work has not been included because it would take significant effort to collate, contains sensitive information, or contains PII of staff/students. Do get in touch if you'd like a redacted copy of anything missing.
 
-Most of my first year work isn't the greatest, and I'm surprised a lot of it was up-to-snuff. My MS Word template wasn't great either. I'm a lot prouder of my second year work.
+Most of my first year work isn't the greatest, and I'm surprised a lot of it was up-to-snuff. My MS Word template wasn't great either. I'm a lot prouder of my second year work. Despite this, these 43 assignments across 18 units cover all 212 tasks required to achieve D\*D\*D\*. This is the highest grade possible, equivalent to 3 A\*s at A-Level. This has yet to be formally awarded, however.
 
 You may also be interested in [how I organized these assignments](https://github.com/tomatsolihull/notion-assignment-tracker/blob/master/README.md) while working on them, using Notion.
 
