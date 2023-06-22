@@ -1,4 +1,11 @@
-# BTEC Nationals Level 3 Extended Diploma in IT Assignment Work
+<div align="center">
+    <!-- I love GitHub Markdown <3 -->
+    <a href="https://solcol.thomasr.me">
+        <img src="https://github.com/tomatsolihull.png">
+    </a>
+</div>
+
+# BTEC Level 3 Extended Diploma in IT — Assignment Work
 
 Hello! This is a repository to share [my](https://thomasr.me) assignment work completed while studying a BTEC Diploma in IT at Solihull College.
 Any programming and development work relating to this course is located [in the GitHub org](https://github.com/tomatsolihull).
